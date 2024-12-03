@@ -1,0 +1,23 @@
+[
+    {
+        "name": "brocoli",
+        "sku": "VEGO7CMV",
+        "quantity": 100,
+        "price": 1.0,
+        "low_stock_threshold": 500
+    },
+    {
+        "name": "Candy Corn",
+        "sku": "CANINC07",
+        "quantity": 250,
+        "price": 3.0,
+        "low_stock_threshold": 100
+    },
+    {
+        "name": "Coca Cola",
+        "sku": "COLAX6IS",
+        "quantity": 2,
+        "price": 1.0,
+        "low_stock_threshold": 1000
+    }
+]
